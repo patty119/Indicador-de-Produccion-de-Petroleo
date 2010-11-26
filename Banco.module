@@ -85,6 +85,10 @@ $xx="<img src='http://chart.apis.google.com/chart?cht=p3&chco=0000FF&chd=t:$resu
 return ($xx);
 //print "</pre>";
 
+//PHP es un lenguaje de programación interpretado, diseñado originalmente para la creación de páginas web dinámicas. Es usado principalmente en interpretación del lado del servidor (server-side scripting) pero actualmente puede ser utilizado desde una interfaz de línea de comandos o en la creación de otros tipos de programas incluyendo aplicaciones con interfaz gráfica usando las bibliotecas Qt o GTK+.
+
+
+
 
 
 }
